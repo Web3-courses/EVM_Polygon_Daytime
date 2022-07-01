@@ -74,7 +74,8 @@ Instructor Slide Notes
 
 #### Concepts to Consider
 
-1. What current blockchain technologies benefit from d
+1. What current blockchain technologies benefit from decentralised nature of Ethereum and its gas matrix?
+ 1.1 Why might higher gas fees be beneficial in deterring spam on a network?
 2. What known business models would struggle with the TPS limitations of EVM today?
 
 
