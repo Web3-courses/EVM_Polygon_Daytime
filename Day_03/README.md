@@ -27,13 +27,13 @@ In this session, we will dive deeper into turing complete and its logical answer
 
 Tools
 
-1. [Gas Tracker]9https://etherscan.io/gastracker)
+1. [Gas Tracker](https://etherscan.io/gastracker)
 2. [Eth gas station](https://ethgasstation.info/)
 3. 
 
 
 Slides for the presentation
-1. [Google Slides](https://docs.google.com/presentation/d/1UQhdftI24wuQL7hKqSiwfdpEhZ729isVKluwT2oojOs/edit?usp=sharing)
+1. [Google Slides](https://docs.google.com/presentation/d/1nlZ4C-3_nFgcirdB4vaomX4Fn5S6znhdBUU1Obq7fSo/edit?usp=sharing)
 
 Instructor Slide Notes
 1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/)
