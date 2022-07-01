@@ -21,7 +21,7 @@ In this session, we will cover some core cencepts that outline how Ethereum and 
 | 03:00 pm | 30 mins | Mempools |
 | 03:30 pm | 30 mins | Proof of stake vs Proof of work |
 | 04:00 pm | 30 mins | Ethereum Ecosystem |
-| 04:30 pm | 30 mins | Discussions |
+| 04:30 pm | 30 mins | Conclusion / Discussions |
 
 ### Instructor Resources
 
@@ -62,16 +62,36 @@ Instructor Slide Notes
 7. [proof of work](https://www.youtube.com/watch?v=XLcWy1uV8YM)
 
 
-### Conclusion
+### Conclusion / Discussions
+
+1. What limitations does TPS have within the EVM?
+  1.1 What does this do to gas prices?
+  1.2 What are the implications to generic users?
+  1.3 What limitations does this place on high throughput dApp models?
+
+
+### Homework / Advanced Materials
+
+#### Concepts to Consider
+
+1. What current blockchain technologies benefit from d
+2. What known business models would struggle with the TPS limitations of EVM today?
+
+
+
+// Suggestion is that we consider bringing this forward to day three, this day is about Ethereum and the EVM. I would conclude with limitations to EVM as above. Up for disucsssion.
+
 
 [Polygon Lightpaper](https://polygon.technology/lightpaper-polygon.pdf)
 
 ### Homework
 
-1. What is Ploygon?
+// This cannot be homework, we need to take the individual through the conceptual limitations of EVM, especially when considerations are made for high throughput dApps. We also cannot shy away from EVM PoW -> PoS advantages of validator decentralisation vs Polygon.
+
+1. What is Polygon?
 2. Why we need polygon?
 3. What are L1 and L2 protocols?
-4. Concept of GAS
+4. Concept of GAS // covered already in YouTube video no?
 
 
 
