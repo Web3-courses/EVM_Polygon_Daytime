@@ -43,7 +43,7 @@ Instructor Slide Notes
 ### Student Resources
 
 1. [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness#:~:text=In%20colloquial%20usage%2C%20the%20terms,purpose%20computer%20or%20computer%20language.)
-2. 
+2. [Transactions](https://ethereum.org/en/developers/docs/transactions/)
 
 ### Demos
 
