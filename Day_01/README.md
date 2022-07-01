@@ -58,8 +58,8 @@ Instructor Slide Notes
 ### Demos
 
 #### Video Links
-1. [What is blockhain?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
-2. [how does blockchain work?](https://www.youtube.com/watch?v=kHybf1aC-jE)
+1. [What is a blockhain?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+2. [How do blockchains work?](https://www.youtube.com/watch?v=kHybf1aC-jE)
 3. [Public private keys](https://www.youtube.com/watch?v=p_LWJgTBIFs)
 
 
@@ -69,9 +69,14 @@ Instructor Slide Notes
 
 ### Homework
 
+#### Reading
+
+1. [Bitcoin Whitepaper](https://blockchainlab.com/pdf/bitcoin.pdf)
+
+#### Concepts to Consider
+
 1. What are merkle trees?
-2. Bitcoin Whitepaper
-3. How ethereum is different compared to bitcoin?
+2. How is Ethereum different when compared to bitcoin?
 
 
 
