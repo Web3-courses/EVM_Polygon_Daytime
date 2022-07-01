@@ -35,7 +35,7 @@ Tools
 3. [Public private key comics](https://howhttps.works/why-do-we-need-https/)
 
 Slides for the presentation
-1. [Google Slides](https://docs.google.com/presentation/d/1v87VflOGndlTrkSbxLN-hlzXu-KAXDAxgShZKuIn7gc/edit?usp=sharing)
+1. [Google Slides](https://docs.google.com/presentation/d/162qtmtSvvfhRPaTtIzukSY00-WjMDhoPja5aYcLEg7o/edit?usp=sharing)
 
 Instructor Slide Notes
 1. LINK HERE - INCLUDE NOTES AS NEEDED AND WHEN TO INTRODUCE TOOLS, CONCEPTS
