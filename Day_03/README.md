@@ -11,7 +11,7 @@ In this session, we will dive deeper into turing complete and its logical answer
 | --- | --- | --- |
 | 09:00 am | 30 mins | Recap | 
 | 09:30 am | 30 mins | Turing Complete | 
-| 10:00 am | 30 mins | GAS |
+| 10:00 am | 30 mins | Transactions |
 | 10:30 am | 60 mins | OPS code and GAS fees |
 | 11:30 am | 30 mins | Gas optimization |
 | 12:00 pm | 60 mins | Discussions  |
@@ -36,33 +36,29 @@ Slides for the presentation
 1. [Google Slides](https://docs.google.com/presentation/d/1fuDMAuj30fdOLvokV7Iw59t5lARrPlABND0YcDQhxj4/edit?usp=sharing)
 
 Instructor Slide Notes
-1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/)
-2. 
+1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/) --> go to this link when talking about Ops codes and gas
+2. [Turing Completeness](https://academy.binance.com/en/glossary/turing-complete) --> Go to this when talking about turing complete.
 
 
 ### Student Resources
 
-1. 
+1. [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness#:~:text=In%20colloquial%20usage%2C%20the%20terms,purpose%20computer%20or%20computer%20language.)
+2. 
 
 ### Demos
 
 #### Video Links
 
-1. 
+1. [Polygon](https://www.youtube.com/watch?v=IijtdpAtOt0)
+2. [Polygon Contd.](https://www.youtube.com/watch?v=GWUwFDFOipo)
+3. [Sidechains](https://www.youtube.com/watch?v=cFRj2-jzm8E)
+4. [L2 scaling](https://www.youtube.com/watch?v=9pJjtEeq-N4)
 
 
 ### Conclusion / Discussions
 
-1. What limitations does TPS have within the EVM?
-  1.1 What does this do to gas prices?
-  1.2 What are the implications to generic users?
-  1.3 What limitations does this place on high throughput dApp models?
-
-
-
 
 #### Concepts to Consider
-
 
 
 ### Homework / Advanced Materials
