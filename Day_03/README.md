@@ -33,7 +33,7 @@ Tools
 
 
 Slides for the presentation
-1. [Google Slides](https://docs.google.com/presentation/d/1nlZ4C-3_nFgcirdB4vaomX4Fn5S6znhdBUU1Obq7fSo/edit?usp=sharing)
+1. [Google Slides](https://docs.google.com/presentation/d/1fuDMAuj30fdOLvokV7Iw59t5lARrPlABND0YcDQhxj4/edit?usp=sharing)
 
 Instructor Slide Notes
 1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/)
