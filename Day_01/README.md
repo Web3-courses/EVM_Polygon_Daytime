@@ -67,7 +67,7 @@ Instructor Slide Notes
 
 [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
-### Homework
+### Homework / Advanced Materials
 
 #### Reading
 
@@ -77,6 +77,3 @@ Instructor Slide Notes
 
 1. What are merkle trees?
 2. How is Ethereum different when compared to bitcoin?
-
-
-
