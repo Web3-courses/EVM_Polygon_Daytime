@@ -29,7 +29,6 @@ Tools
 
 1. [Gas Tracker](https://etherscan.io/gastracker)
 2. [Eth gas station](https://ethgasstation.info/)
-3. 
 
 
 Slides for the presentation
@@ -38,12 +37,16 @@ Slides for the presentation
 Instructor Slide Notes
 1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/) --> Go to this link when talking about Ops codes and gas
 2. [Turing Completeness](https://academy.binance.com/en/glossary/turing-complete) --> Go to this when talking about turing complete.
+3. [Save gas fees](https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a) --> Go to this site to show how to optimize gas fees
+4. [Polygon](https://polygon.technology/)
 
 
 ### Student Resources
 
 1. [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness#:~:text=In%20colloquial%20usage%2C%20the%20terms,purpose%20computer%20or%20computer%20language.)
 2. [Transactions](https://ethereum.org/en/developers/docs/transactions/)
+3. [Gas optimization](https://eip2535diamonds.substack.com/p/smart-contract-gas-optimization-with)
+4. [Gas saving patterns](https://betterprogramming.pub/how-to-write-smart-contracts-that-optimize-gas-spent-on-ethereum-30b5e9c5db85)
 
 ### Demos
 
