@@ -1,65 +1,54 @@
 # Week_01
-## Day_02 : Ethereum
+## Day_03 : Polygon
 
-This is the second day of the full day version of the EVM → Polygon bootcamp.
+This is the third day of the full day version of the EVM → Polygon bootcamp.
 
-In this session, we will cover some core cencepts that outline how Ethereum and the Etheruem Virtual Machine (EVM) is different to Bitcoin. The learning objective of the day is to gain a theoretical understanding of Ethereum, and the Ethereum Virtual Machine, how it intereacts with transactions, validates and allows progammability.
+In this session, we will dive deeper into turing complete and its logical answer of GAS. Also, gas fees and optimizations are dicussed. Finally, Polygon is introduced with its applicabality and necessity for Ethereum transactions. 
 
 ### Agenda
 
 | Time | Duration | Topic |
 | --- | --- | --- |
 | 09:00 am | 30 mins | Recap | 
-| 09:30 am | 30 mins | Merkle Trees | 
-| 10:00 am | 30 mins | Ethereum history |
-| 10:30 am | 60 mins | Ethereum components |
-| 11:30 am | 30 mins | How Ethereum is different? |
+| 09:30 am | 30 mins | Turing Complete | 
+| 10:00 am | 30 mins | GAS |
+| 10:30 am | 60 mins | OPS code and GAS fees |
+| 11:30 am | 30 mins | Gas optimization |
 | 12:00 pm | 60 mins | Discussions  |
 | 01:00 pm | 60 mins | Lunch Break |
-| 02:00 pm | 30 mins | Uncle Blocks |
-| 02:30 pm | 30 mins | Programmability |
-| 03:00 pm | 30 mins | Mempools |
-| 03:30 pm | 30 mins | Proof of stake vs Proof of work |
-| 04:00 pm | 30 mins | Ethereum Ecosystem |
+| 02:00 pm | 30 mins | Polygon Intro |
+| 02:30 pm | 30 mins | L2? |
+| 03:00 pm | 30 mins | Sidechains |
+| 03:30 pm | 30 mins | Polygons Applicabality |
+| 04:00 pm | 30 mins | Other L2 solutions |
 | 04:30 pm | 30 mins | Conclusion / Discussions |
 
 ### Instructor Resources
 
 Tools
 
-1. [Mempool visualisation](https://mempool.space/)
-2. [bitcoin mempools](http://bitcoincity.info/)
-3. [Best visualizer for mempools](https://txstreet.com/v/eth-btc)
+1. [Gas Tracker]9https://etherscan.io/gastracker)
+2. [Eth gas station](https://ethgasstation.info/)
+3. 
 
 
 Slides for the presentation
 1. [Google Slides](https://docs.google.com/presentation/d/1UQhdftI24wuQL7hKqSiwfdpEhZ729isVKluwT2oojOs/edit?usp=sharing)
 
 Instructor Slide Notes
-1. LINK HERE - INCLUDE NOTES AS NEEDED AND WHEN TO INTRODUCE TOOLS, CONCEPTS
+1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/)
+2. 
 
 
 ### Student Resources
 
-1. [Merkle Trees](https://medium.com/codechain/modified-merkle-patricia-trie-how-ethereum-saves-a-state-e6d7555078dd)
-2. [Ethereum](https://ethereum.org/en/)
-3. [Glossary terms](https://ethereum.org/en/glossary/)
-4. [Mempools](https://academy.binance.com/en/glossary/mempool)
-5. [Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
-6. [EVM](https://ethereum.org/en/developers/docs/evm/)
-7. [Nick Szabos smart contract](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html)
+1. 
 
 ### Demos
 
 #### Video Links
 
-1. [Ethereum](https://www.youtube.com/watch?v=IsXvoYeJxKA)
-2. [Smart Contracts](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
-3. [Smart Contracts in depth](https://www.youtube.com/watch?v=pyaIppMhuic)
-4. [Ethereum gas](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
-5. [Ethereum 2.0](https://www.youtube.com/watch?v=pycVClxWUN8)
-6. [Proof of stake](https://www.youtube.com/watch?v=M3EFi_POhps)
-7. [proof of work](https://www.youtube.com/watch?v=XLcWy1uV8YM)
+1. 
 
 
 ### Conclusion / Discussions
@@ -70,29 +59,14 @@ Instructor Slide Notes
   1.3 What limitations does this place on high throughput dApp models?
 
 
-### Homework / Advanced Materials
+
 
 #### Concepts to Consider
 
-1. What current blockchain technologies benefit from decentralised nature of Ethereum and its gas matrix?
- 1.1 Why might higher gas fees be beneficial in deterring spam on a network?
-2. What known business models would struggle with the TPS limitations of EVM today?
 
 
+### Homework / Advanced Materials
 
-// Suggestion is that we consider bringing this forward to day three, this day is about Ethereum and the EVM. I would conclude with limitations to EVM as above. Up for disucsssion.
-
-
-[Polygon Lightpaper](https://polygon.technology/lightpaper-polygon.pdf)
-
-### Homework
-
-// This cannot be homework, we need to take the individual through the conceptual limitations of EVM, especially when considerations are made for high throughput dApps. We also cannot shy away from EVM PoW -> PoS advantages of validator decentralisation vs Polygon.
-
-1. What is Polygon?
-2. Why we need polygon?
-3. What are L1 and L2 protocols?
-4. Concept of GAS // covered already in YouTube video no?
 
 
 
