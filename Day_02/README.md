@@ -82,8 +82,8 @@ Instructor Slide Notes
 
 // Suggestion is that we consider bringing this forward to day three, this day is about Ethereum and the EVM. I would conclude with limitations to EVM as above. Up for disucsssion.
 
-
-[Polygon Lightpaper](https://polygon.technology/lightpaper-polygon.pdf)
+1. [Ethereum illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+2. [Polygon Lightpaper](https://polygon.technology/lightpaper-polygon.pdf)
 
 ### Homework
 
