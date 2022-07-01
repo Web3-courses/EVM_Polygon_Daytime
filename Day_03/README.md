@@ -39,6 +39,8 @@ Instructor Slide Notes
 2. [Turing Completeness](https://academy.binance.com/en/glossary/turing-complete) --> Go to this when talking about turing complete.
 3. [Save gas fees](https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a) --> Go to this site to show how to optimize gas fees
 4. [Polygon](https://polygon.technology/)
+5. [Layer 2 explanation](https://ethereum.org/en/layer-2/#:~:text=A%20layer%202%20is%20a%20separate%20blockchain%20that%20extends%20Ethereum.&text=A%20layer%202%20blockchain%20regularly,layer%201%20protocol%20(Ethereum).)--> Go to this link when explaining about Layer 2.
+6. [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/#top) --> Go to this link when explaining about sidechains.
 
 
 ### Student Resources
