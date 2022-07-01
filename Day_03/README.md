@@ -36,7 +36,7 @@ Slides for the presentation
 1. [Google Slides](https://docs.google.com/presentation/d/1fuDMAuj30fdOLvokV7Iw59t5lARrPlABND0YcDQhxj4/edit?usp=sharing)
 
 Instructor Slide Notes
-1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/) --> go to this link when talking about Ops codes and gas
+1. [Ops code](https://ethereum.org/en/developers/docs/evm/opcodes/) --> Go to this link when talking about Ops codes and gas
 2. [Turing Completeness](https://academy.binance.com/en/glossary/turing-complete) --> Go to this when talking about turing complete.
 
 
@@ -62,10 +62,4 @@ Instructor Slide Notes
 
 
 ### Homework / Advanced Materials
-
-
-
-
-
-
 
