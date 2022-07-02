@@ -13,7 +13,7 @@ In this session, we will dive deeper into turing complete and its logical answer
 | 09:30 am | 30 mins | Turing Complete | 
 | 10:00 am | 30 mins | Transactions |
 | 10:30 am | 60 mins | OPS code and GAS fees |
-| 11:30 am | 30 mins | Gas optimization |
+| 11:30 am | 30 mins | Gas optimisation |
 | 12:00 pm | 60 mins | Discussions  |
 | 01:00 pm | 60 mins | Lunch Break |
 | 02:00 pm | 30 mins | Polygon Intro |
