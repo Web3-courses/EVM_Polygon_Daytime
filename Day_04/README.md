@@ -37,6 +37,9 @@ Instructor side Notes
 2. [Sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/#:~:text=%E2%80%9CThe%20mechanism%20by%20which%20coins,mainnet%20and%20the%20new%20sidechain.)
 3. [Vitalik resources](https://vitalik.ca/general/2021/01/05/rollup.html)
 4. [Sharding](https://education.district0x.io/general-topics/understanding-ethereum/ethereum-sharding-explained/)
+5. [Bridges](https://blog.liquid.com/blockchain-cross-chain-bridge#:~:text=A%20blockchain%20bridge%2C%20otherwise%20known,do%20that%20through%20the%20bridge.)
+6. [Polygon PoS](https://docs.chainstack.com/blockchains/polygon)
+7. [Plasma](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/plasma/)
 
 
 ### Student Resources
@@ -44,12 +47,20 @@ Instructor side Notes
 1. [First sidechain paper](https://blockstream.com/sidechains.pdf)
 2. [Rollups general](https://medium.com/offchainlabs/whats-up-with-rollup-db8cd93b314e)
 3. [Sharding](https://ethereum.org/en/upgrades/sharding/#main-content)
+4. [Bridging](https://ethereum.org/en/developers/docs/bridges/#need-for-bridges)
+5. [Polygon PoS architecture](https://docs.polygon.technology/docs/home/architecture/polygon-architecture/)
+6. [Plasma architecture general](https://www.blockchain-council.org/blockchain/a-complete-guide-to-ethereum-plasma/#:~:text=Plasma%20refers%20to%20a%20framework,not%20currently%20feasible%20on%20Ethereum.)
 
 ### Demos
 
 #### Video Links
 
-1. []()
+1. [Sharding](https://www.youtube.com/watch?v=SZpjvWMfgDA)
+2. [Sharding in depth](https://www.youtube.com/watch?v=8AtGrwSN8Nc)
+3. [Rollups](https://www.youtube.com/watch?v=6_nOYsvXMsE)
+4. [Layer 2](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+5. [Sidechains](https://www.youtube.com/watch?v=cFRj2-jzm8E)
+6. [Bridges](https://www.youtube.com/watch?v=nT26cIz8HjI)
 
 
 ### Conclusion / Discussions
@@ -59,4 +70,5 @@ Instructor side Notes
 
 
 ### Homework / Advanced Materials
+1. [Plasma architecture](https://plasma.io/plasma.pdf)
 
