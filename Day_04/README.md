@@ -24,15 +24,15 @@ In this session, we will look at the entire polygon ecosystem and their use case
 
 ### Instructor Resources
 
-Tools
+## Tools
 
 1. [district0x education resources](https://education.district0x.io/general-topics/)
 
 
-Slides for the presentation
+## Slides for the presentation
 1. [Google Slides](https://docs.google.com/presentation/d/1vRTuHSOtyrz7TtKvGFMU8WgL97kMufCsuZak7xFREDw/edit?usp=sharing)
 
-Instructor side Notes
+### Instructor side Notes
 1. [Polygon website](https://polygon.technology/)
 2. [Sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/#:~:text=%E2%80%9CThe%20mechanism%20by%20which%20coins,mainnet%20and%20the%20new%20sidechain.)
 3. [Vitalik resources](https://vitalik.ca/general/2021/01/05/rollup.html)
@@ -41,6 +41,9 @@ Instructor side Notes
 6. [Polygon PoS](https://docs.chainstack.com/blockchains/polygon)
 7. [Plasma](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/plasma/)
 8. [Polygon hermez](https://l2beat.com/projects/hermez/)
+9. [Polygon edge](https://nownodes.io/blog/what-is-polygon-edge/)
+10. [Why nightfall is needed?](https://dappradar.com/blog/what-is-polygon-nightfall)
+11. [Polygon ID](https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-identity-for-web3/)
 
 
 ### Student Resources
@@ -53,6 +56,10 @@ Instructor side Notes
 6. [Plasma architecture general](https://www.blockchain-council.org/blockchain/a-complete-guide-to-ethereum-plasma/#:~:text=Plasma%20refers%20to%20a%20framework,not%20currently%20feasible%20on%20Ethereum.)
 7. [Hermez](https://hermez.io/)
 8. [Polygon hermez](https://polygon.technology/solutions/polygon-hermez/)
+9. [Polygon edge](https://edge-docs.polygon.technology/docs/overview/#:~:text=Polygon%20Edge%20is%20a%20modular,Ethereum%20smart%20contracts%20and%20transactions.)
+10. [Polygon nightfall](https://polygon.technology/solutions/polygon-nightfall/)
+11. [Polygon supernets](https://polygon.technology/polygon-edge-supernets/)
+12. [Polygon ID](https://polygon.technology/polygon-id/)
 
 ### Demos
 
@@ -75,4 +82,6 @@ Instructor side Notes
 
 ### Homework / Advanced Materials
 1. [Plasma architecture](https://plasma.io/plasma.pdf)
+2. [Polygon edge supernets](https://blog.polygon.technology/introducing-polygon-supernets-powered-by-polygon-edge-100m-ecosystem-fund/)
+3. 
 
