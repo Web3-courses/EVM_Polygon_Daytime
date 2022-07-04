@@ -40,6 +40,7 @@ Instructor side Notes
 5. [Bridges](https://blog.liquid.com/blockchain-cross-chain-bridge#:~:text=A%20blockchain%20bridge%2C%20otherwise%20known,do%20that%20through%20the%20bridge.)
 6. [Polygon PoS](https://docs.chainstack.com/blockchains/polygon)
 7. [Plasma](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/plasma/)
+8. [Polygon hermez](https://l2beat.com/projects/hermez/)
 
 
 ### Student Resources
@@ -50,6 +51,8 @@ Instructor side Notes
 4. [Bridging](https://ethereum.org/en/developers/docs/bridges/#need-for-bridges)
 5. [Polygon PoS architecture](https://docs.polygon.technology/docs/home/architecture/polygon-architecture/)
 6. [Plasma architecture general](https://www.blockchain-council.org/blockchain/a-complete-guide-to-ethereum-plasma/#:~:text=Plasma%20refers%20to%20a%20framework,not%20currently%20feasible%20on%20Ethereum.)
+7. [Hermez](https://hermez.io/)
+8. [Polygon hermez](https://polygon.technology/solutions/polygon-hermez/)
 
 ### Demos
 
@@ -61,6 +64,7 @@ Instructor side Notes
 4. [Layer 2](https://www.youtube.com/watch?v=9pJjtEeq-N4)
 5. [Sidechains](https://www.youtube.com/watch?v=cFRj2-jzm8E)
 6. [Bridges](https://www.youtube.com/watch?v=nT26cIz8HjI)
+7. [Polygon hermez](https://www.youtube.com/watch?v=3eR64DufpHA)
 
 
 ### Conclusion / Discussions
