@@ -32,7 +32,7 @@ In this session, we will look at wallets and tokens and how are they connected t
 1. [Google Slides](https://docs.google.com/presentation/d/1l4Uyjvc-oACg6H1F0oUioPzLGvj5ZF3LMUr1gyX461I/edit?usp=sharing)
 
 ### Instructor side Notes
-1. 
+1. [Faucet](https://github.com/Web3-courses/Diagrams/blob/main/Faucet.drawio.png)
 
 
 ### Student Resources
