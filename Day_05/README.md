@@ -37,7 +37,7 @@ In this session, we will look at wallets and tokens and how are they connected t
 
 ### Student Resources
 
-1.
+1.[Rinkeby faucet](https://faucet.rinkeby.io/)
 
 ### Demos
 
