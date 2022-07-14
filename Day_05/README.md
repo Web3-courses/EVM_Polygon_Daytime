@@ -39,8 +39,8 @@ In this session, we will look at wallets and tokens and how are they connected t
 ### Student Resources
 
 1.[Rinkeby faucet](https://faucet.rinkeby.io/)
-2.[Nodes](https://www.blockchain-council.org/blockchain/blockchain-nodes/#:~:text=Blockchain%20nodes%20are%20network%20stakeholders,network%20transactions%2C%20known%20as%20blocks.))
-3.[Clients and Nodes](https://ethereum.org/en/developers/docs/nodes-and-clients/#:~:text=A%20client%20is%20an%20implementation,to%20run%20a%20mining%20node).)
+2.[Nodes](https://www.blockchain-council.org/blockchain/blockchain-nodes/#:~:text=Blockchain%20nodes%20are%20network%20stakeholders,network%20transactions%2C%20known%20as%20blocks.)
+3.[Clients and Nodes](https://ethereum.org/en/developers/docs/nodes-and-clients/#:~:text=A%20client%20is%20an%20implementation,to%20run%20a%20mining%20node)
 
 ### Demos
 
