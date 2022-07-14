@@ -17,9 +17,8 @@ In this session, we will look at wallets and tokens and how are they connected t
 | 02:00 pm | 30 mins | Coins |
 | 02:30 pm | 30 mins | Tokens |
 | 03:00 pm | 30 mins | ERC standards |
-| 03:30 pm | 30 mins | ERC-20 |
-| 04:00 pm | 30 mins | ERC-721 |
-| 04:30 pm | 30 mins | ERC-1155 |
+| 03:30 pm | 30 mins | ERC-20,721,1155 |
+| 04:00 pm | 60 mins | Applications of Blockchain |
 
 ### Instructor Resources
 
@@ -38,6 +37,8 @@ In this session, we will look at wallets and tokens and how are they connected t
 3. [Alchemy providers](https://www.alchemy.com/blog/what-is-a-node-provider)
 4. [Wallets](https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets-a-beginners-guide-to-storing-eth)
 5. [Faucets](https://medium.com/geekculture/what-are-crypto-faucets-how-to-earn-some-crypto-for-free-79ef7cbca225)
+6. [ERC standards](https://uk.finance.yahoo.com/news/guide-ethereum-erc-standards-150024381.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvLmluLw&guce_referrer_sig=AQAAAFs3ztkNBxTXQnDQwmU3z0eU2dnsNUoETD7cjBtV73BJ2Q_dxUm90vaC6rTiDiwRGvgX328RAcMiLVmOASB5GNa35e7xzmb0N5l_4iT2uBFQEjvUdQaOWW56sPWeyPoQOAVty2RmiOGIZ10-4fll6qh3GJislOHBqkYaA20ZNvsr)
+7. [ERC-1155 uses](https://decrypt.co/resources/what-is-erc-1155-ethereums-flexible-token-standard)
 
 
 ### Student Resources
@@ -49,12 +50,15 @@ In this session, we will look at wallets and tokens and how are they connected t
 5. [Testnets](https://blog.logrocket.com/top-4-ethereum-testnets-testing-smart-contracts/)
 6. [Providers](https://docs.ethers.io/v5/api/providers/#:~:text=A%20Provider%20is%20an%20abstraction,to%20standard%20Ethereum%20node%20functionality.)
 7. [Wallets](https://ethereum.org/en/wallets/#:~:text=Ethereum%20wallets%20are%20applications%20that,funds%20and%20manage%20your%20ETH.)
+8. [Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/#:~:text=Here%20are%20some%20of%20the,for%20artwork%20or%20a%20song.)
+9. [EIP](https://eips.ethereum.org/erc)
 
 ### Demos
 
 #### Video Links
 
-1. 
+1. [ERC-20 Tokens](https://www.youtube.com/watch?v=cqZhNzZoMh8)
+2. [Coin vs token](https://www.youtube.com/watch?v=422HORNUfkU)
 
 
 ### Conclusion / Discussions
