@@ -20,7 +20,7 @@ In this session, we will look at solidity language and how it is used for creati
 | 02:30 pm | 30 mins | Structs |
 | 03:00 pm | 30 mins | ENUMs |
 | 03:30 pm | 30 mins | Mappings |
-| 04:00 pm | 60 mins | Events and Emits |
+| 04:00 pm | 60 mins | Discussions |
 
 ### Instructor Resources
 
