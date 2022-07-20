@@ -33,6 +33,7 @@ In this session, we will look at solidity language and how it is used for creati
 ### Instructor side Notes
 1. [Solidity Functions](https://www.tutorialspoint.com/solidity/solidity_functions.htm)
 2. [Functions in detail](https://www.bitdegree.org/learn/solidity-functions)
+3. [Contracts](https://www.tutorialspoint.com/solidity/solidity_contracts.htm)
 
 
 
@@ -41,6 +42,7 @@ In this session, we will look at solidity language and how it is used for creati
 
 1. [Functions](https://www.geeksforgeeks.org/solidity-functions/)
 2. [Fallback functions](https://www.geeksforgeeks.org/solidity-fall-back-function/?ref=lbp)
+3. [Smart Contracts](https://docs.soliditylang.org/en/v0.8.15/introduction-to-smart-contracts.html#:~:text=A%20contract%20in%20the%20sense,unsigned%20integer%20of%20256%20bits)
 
 
 
