@@ -32,13 +32,23 @@ In this session, we will look at solidity language and how it is used for creati
 
 ### Instructor side Notes
 1. [Solidity - Tutorials Point](https://www.tutorialspoint.com/solidity/index.htm)
-2. 
+2. [Solidity Operatots - Geekforgeeks](https://www.geeksforgeeks.org/solidity-operators/?ref=lbp)
+3. [Solidity Loops](https://www.geeksforgeeks.org/solidity-while-do-while-and-for-loop/?ref=lbp)
+4. [Solidity by example for loops](https://solidity-by-example.org/loop/)
+5. [Enums](https://www.educative.io/answers/what-are-enums-in-solidity)
+6. [Structs](https://www.tutorialspoint.com/solidity/solidity_structs.htm)
+7. [Mappings](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
 
 
 
 ### Student Resources
 
-1. []()
+1. [Loops](https://www.educative.io/answers/what-are-loops-in-solidity)
+2. [Variables](https://cryptomarketpool.com/variables-in-solidity-smart-contracts/)
+3. [Enums](https://cryptomarketpool.com/enum-in-solidity-smart-contracts/)
+4. [Mappings](https://www.geeksforgeeks.org/solidity-mappings/?ref=lbp)
+5. [Strcuts in detail](https://www.w3schools.io/blockchain/solidity-struct-type/)
+6. [Mappings in detail](https://hackernoon.com/how-to-create-a-mapping-in-solidity-u6p34k1)
 
 
 ### Demos
