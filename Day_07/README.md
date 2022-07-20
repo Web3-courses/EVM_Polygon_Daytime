@@ -9,18 +9,18 @@ In this session, we will look at solidity language and how it is used for creati
 | Time | Duration | Topic |
 | --- | --- | --- |
 | 09:00 am | 60 mins | Recap | 
-| 10:00 am | 30 mins | History | 
-| 10:30 am | 30 mins | Remix & Basic Syntax | 
-| 11:00 am | 30 mins | Variables |
-| 11:30 am | 30 mins | Special variables |
-| 12:00 am | 30 mins | Operators |
-| 12:30 am | 30 mins | Loops |
+| 10:00 am | 30 mins | Functions | 
+| 10:30 am | 30 mins | View Functions | 
+| 11:00 am | 30 mins | Pure Functions |
+| 11:30 am | 30 mins | Fallback Functions |
+| 12:00 am | 30 mins | Overloading |
+| 12:30 am | 30 mins | Discussions |
 | 01:00 pm | 60 mins | Lunch Break |
-| 02:00 pm | 30 mins | Arrays --> Static and Dynamic |
-| 02:30 pm | 30 mins | Structs |
-| 03:00 pm | 30 mins | ENUMs |
-| 03:30 pm | 30 mins | Mappings |
-| 04:00 pm | 60 mins | Discussions |
+| 02:00 pm | 30 mins |  |
+| 02:30 pm | 30 mins |  |
+| 03:00 pm | 30 mins |  |
+| 03:30 pm | 30 mins |  |
+| 04:00 pm | 60 mins |  |
 
 ### Instructor Resources
 
@@ -32,13 +32,15 @@ In this session, we will look at solidity language and how it is used for creati
 
 ### Instructor side Notes
 1. [Solidity Functions](https://www.tutorialspoint.com/solidity/solidity_functions.htm)
+2. [Functions in detail](https://www.bitdegree.org/learn/solidity-functions)
 
 
 
 
 ### Student Resources
 
-1. []()
+1. [Functions](https://www.geeksforgeeks.org/solidity-functions/)
+2. [Fallback functions](https://www.geeksforgeeks.org/solidity-fall-back-function/?ref=lbp)
 
 
 
