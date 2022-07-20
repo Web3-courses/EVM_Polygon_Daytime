@@ -22,7 +22,9 @@ The course is an eight day, intensive, full day bootcamp where students are expe
 
 | Week | Day | Topics |
 | --- | --- | --- |
-| 01 | 01 | | 
+| 01 | 01 | What is blockchain? → cryptography, Gossip protocol, byzantine fault tolerance, consensus protocols.
+How does DLT work? → creation to the addition of a block with all transactions, Merkle trees.
+Bitcoin whitepaper → Proof of work, mining and validation | 
 | 02 | 02 | | 
 | 01 | 03 | | 
 | 01 | 04 | | 
