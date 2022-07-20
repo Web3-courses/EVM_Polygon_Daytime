@@ -27,10 +27,10 @@ The course is an eight day, intensive, full day bootcamp where students are expe
 | 01 | 03 | Why Polygon is needed? → Gas fees, Gas optimization and transaction time. | 
 | 01 | 04 | Why polygon is used and how it is used? → sidechains, rollups, sharding. Existing polygon ecosystem → PoS, Hermes, Avail, Edge etc. | 
 | 01 | 05 | Wallets → Custodial and non-custodial, creating your own wallet.Getting test funds from Ethereum and polygon testnets.Etherscan and polygon scan.Tokens → ERC-20, ERC-721, ERC-1155| 
-| 02 | 06 | | 
-| 02 | 07 | | 
-| 02 | 08 | | 
-| 02 | 09 | | 
-| 02 | 10 | | 
+| 02 | 06 | Remix and open-source IDEs.Solidity primitives → variables, functions, state mutability, visibility.Solidity intermediate → dynamic and static arrays, events and emits indexed variables. | 
+| 02 | 07 | Solidity inheritance and enumeration.Solidity and smart contracts.Solidity best practices | 
+| 02 | 08 | Smart contract best practices.ERC and EIP standards - 20, 1155, 165 and 721.OpenZeppelin| 
+| 02 | 09 | Basics of DApps → ABI and bytecode, Infura vs Alchemy API, Moralis.The technical architecture of dApps → React js, The Graph, Hardhat, Mocha etc.Truffle vs Hardhat → Ganache, Truffle console, hardhat console etc | 
+| 02 | 10 | Unit testing using chai and mocha → assertion.Pushing to git → protecting keys and other secret information| 
 
 
