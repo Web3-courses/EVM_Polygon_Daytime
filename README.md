@@ -17,4 +17,20 @@ Becoming a capable engineer cannot be taught over a period of an eight day bootc
 
 The course is an eight day, intensive, full day bootcamp where students are expected to also complete reading, homework and consider core concepts to progress their knowledge overnight. The course is broken down into the following overview.
 
+## Daywise Agenda
+
+
+| Week | Day | Topics |
+| --- | --- | --- |
+| 01 | 01 | | 
+| 02 | 02 | | 
+| 01 | 03 | | 
+| 01 | 04 | | 
+| 01 | 05 | | 
+| 02 | 06 | | 
+| 02 | 07 | | 
+| 02 | 08 | | 
+| 02 | 09 | | 
+| 02 | 10 | | 
+
 
