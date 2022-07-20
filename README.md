@@ -1,5 +1,5 @@
 # EVM -> Polgyon Daytime course
-![Polygon matic]
+![Hero Img](PolygonEthereum_Course.jpg)
 
 This repo is specific to the EVM -> Polygon daytime course. 
 
