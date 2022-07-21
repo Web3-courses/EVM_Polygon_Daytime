@@ -29,6 +29,8 @@ In this session, we will look at solidity language and how it is used for creati
 
 ### Instructor side Notes
 1. []()
+2. []()
+3. [EIP -20 ](https://eips.ethereum.org/EIPS/eip-20)
 
 ### Student Resources
 
