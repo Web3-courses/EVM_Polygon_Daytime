@@ -31,11 +31,20 @@ In this session, we will look at solidity language and how it is used for creati
 1. [Abstract contracts](https://www.tutorialspoint.com/solidity/solidity_abstract_contracts.htm)
 2. [Interfaces in general](https://cryptomarketpool.com/interface-in-solidity-smart-contracts/#:~:text=What%20is%20an%20interface%20in,implementation%20details%20are%20less%20important)
 3. [EIP -20 ](https://eips.ethereum.org/EIPS/eip-20)
+4. [Smart contracts](https://www.ibm.com/uk-en/topics/smart-contracts)
+5. [Libraries](https://www.geeksforgeeks.org/solidity-libraries/#:~:text=Libraries%20in%20solidity%20are%20similar,library%20reduces%20the%20gas%20cost.)
+6. [Libraries in detail](https://cryptomarketpool.com/libraries-in-solidity/)
+7. [Events](https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859)
 
 ### Student Resources
 
 1. [Abstract Contracts](https://docs.soliditylang.org/en/v0.6.2/contracts.html#abstract-contracts)
 2. [ERC-20 implementation](https://solidity-by-example.org/app/erc20/)
+3. [Smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+4. [Smart contracts in detail](https://www.tutorialspoint.com/what-are-smart-contracts#:~:text=A%20Smart%20contract%20is%20a,lot%20of%20time%20and%20money.)
+5. [Libraries](https://www.tutorialspoint.com/solidity/solidity_libraries.htm)
+6. [Events](https://www.tutorialspoint.com/solidity/solidity_events.htm)
+7. [Events in detail](https://techblog.geekyants.com/an-introduction-to-events-in-solidity)
 
 ### Demos
 
