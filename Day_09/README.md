@@ -5,7 +5,7 @@
 
 This is the ninth day of the full day version of the EVM → Polygon bootcamp.
 
-Link for actual repo: [Main repo](https://github.com/Web3-courses/Polygon_Blog/edit/main/README.md)
+Link for actual repo: [Main repo](https://github.com/Web3-courses/Polygon_Blog)
 
 In this session, we will build a simple dapp.
 
