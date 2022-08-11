@@ -1,4 +1,4 @@
-# EVM -> Polgyon Daytime course
+# EVM -> Polgyon Daytime course(FREE)
 ![Hero Img](PolygonEthereum_Course.jpg)
 
 This repo is specific to the EVM -> Polygon daytime course. 
