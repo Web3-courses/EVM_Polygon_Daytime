@@ -35,9 +35,6 @@ Tools
 Slides for the presentation
 1. [Google Slides](https://docs.google.com/presentation/d/1jBg52G9RGgX0HpC7oXF8Qh_QKBhrj4m-IpWGE2jZDxo/edit?usp=sharing)
 
-Instructor Slide Notes
-1. LINK HERE - INCLUDE NOTES AS NEEDED AND WHEN TO INTRODUCE TOOLS, CONCEPTS
-
 
 ### Student Resources
 
