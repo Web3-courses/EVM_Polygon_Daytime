@@ -66,6 +66,7 @@ In this session, we will look at solidity language and how it is used for creati
 1. [List of chain IDs](https://github.com/DefiLlama/chainlist/blob/main/constants/extraRpcs.json)
 2. [Setting metamask](https://academy.binance.com/en/articles/how-to-add-polygon-to-metamask)
 3. [State Mutability](https://medium.com/coinmonks/function-state-mutability-in-solidity-acb850eedccc#:~:text=State%20mutability%20is%20a%20concept,in%20writing%20optimized%20smart%20contracts.)
+4. [Quick guide to arrays](https://betterprogramming.pub/mastering-arrays-in-solidity-c6e96479c64a)
 
 
 
