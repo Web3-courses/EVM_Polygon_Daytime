@@ -65,6 +65,7 @@ In this session, we will look at solidity language and how it is used for creati
 
 
 ### Homework / Advanced Materials
+1. [List of chain IDs](https://github.com/DefiLlama/chainlist/blob/main/constants/extraRpcs.json)
 
 
 
