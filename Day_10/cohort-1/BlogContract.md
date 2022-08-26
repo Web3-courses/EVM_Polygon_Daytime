@@ -83,3 +83,8 @@ contract blog{
 
 
 ```
+
+## Functions
+
+![Writing Functions](https://github.com/Web3-courses/EVM_Polygon_Daytime/blob/main/Day_10/cohort-1/assets/blog1.png)
+![Reading functions](https://github.com/Web3-courses/EVM_Polygon_Daytime/blob/main/Day_10/cohort-1/assets/blog2.png)
