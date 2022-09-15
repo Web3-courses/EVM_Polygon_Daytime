@@ -17,5 +17,5 @@ Read the list of code of conduct rules before starting the course
 ## NOTE(Only for enrolled students through our website)
 
 We have your email address and phone numbers which you have sent to us while filling the form for the bootcamp. This will be only used for our company purposes to be in contact with you.
-We strictly donot share this details with anyone. But if in case you dont want us to conatin your emails or phone numbers in our database, feel free to mention it and
+We strictly do not share this details with anyone. But if in case you dont want us to contain your emails or phone numbers in our database, feel free to mention it and
 we will remove them completely. 
